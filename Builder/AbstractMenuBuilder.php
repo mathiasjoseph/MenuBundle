@@ -9,6 +9,7 @@
 namespace Miky\Bundle\MenuBundle\Builder;
 
 
+use Knp\Menu\FactoryInterface;
 use Symfony\Component\EventDispatcher\EventDispatcherInterface;
 
 class AbstractMenuBuilder
