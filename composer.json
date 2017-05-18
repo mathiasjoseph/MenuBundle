@@ -24,7 +24,8 @@
     "symfony/swiftmailer-bundle": "~2.3,>=2.3.10",
     "symfony/symfony": "2.8.*",
     "twig/twig": "^2.0",
-    "knplabs/knp-menu-bundle": "^2.1"
+    "knplabs/knp-menu-bundle": "^2.1",
+    "mikycorp/menu": "0.0.1"
   },
   "autoload" : {
     "psr-0" : {
